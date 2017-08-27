@@ -1,0 +1,16 @@
+{
+  "name": "node_mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Harits Syaifulloh",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.7.6",
+    "nodemailer": "^2.7.0",
+    "restify": "^4.3.0"
+  }
+}
